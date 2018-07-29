@@ -14,7 +14,7 @@ for A, and so with the others."
 Ciphers are very straight-forward algorithms that allow us to render
 text less readable while still allowing easy deciphering. They are
 vulnerable to many forms of cryptoanalysis, but we are lucky that
-generally our little sisters are not cryptoanalysts.
+generally our younger siblings are not cryptoanalysts.
 
 The Caesar Cipher was used for some messages from Julius Caesar that
 were sent afield. Now Caesar knew that the cipher wasn't very good, but
@@ -37,7 +37,7 @@ message.
 
 ## Step 2
 
-Shift ciphers are no fun though when your kid sister figures it out. Try
+Shift ciphers are no fun though when your younger sibling figures it out. Try
 amending the code to allow us to specify a key and use that for the
 shift distance. This is called a substitution cipher.
 
